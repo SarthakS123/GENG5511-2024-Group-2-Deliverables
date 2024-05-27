@@ -10,6 +10,5 @@ The students in the 2024 GENG5511 Group 2 are as follows:
 - Gerard Lim (22988115)
 
 This repository contains a zip file with the following deliverables:
-1. Group 2 Final Report
-2. Altium schematic designs
-3. Altium PCB design
+1. Altium schematic designs
+2. Altium PCB design
